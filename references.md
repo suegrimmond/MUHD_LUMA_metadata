@@ -1,0 +1,17 @@
+# References
+
+| Code | Reference |
+------- | ------- | 
+C17 | 'Crawford B, Grimmond CSB, Ward HC, Morrison W, Kotthaus S 2017: Spatial and temporal patterns of surface‐atmosphere energy exchange in a dense urban environment using scintillometry. Quarterly Journal of the Royal Meteorological Society, 143( 703), 817– 833. https://doi.org/10.1002/qj.2967'
+C18 | 'Crawford B, CSB Grimmond, A Gabey, M Marconcini, HC Ward, CW Kent 2018 Variability of urban surface temperatures and implications for aerodynamic energy exchange in unstable conditions QJRMS 144, 1719-1741 https://doi.org/10.1002/qj.3325'
+KG18 | 'Kotthaus S, CSB Grimmond 2018: Atmospheric Boundary Layer Characteristics from Ceilometer Measurements Part 1: A new method to track mixed layer height and classify clouds QJRMS https://doi.org/10.1002/qj.329' 
+K16 | 'Kotthaus S, E O_Connor, C Münkel, C Charlton-Perez, CSB Grimmond 2016: Recommendations for processing atmospheric backscatter profiles from Vaisala CL31 Ceilometers Atmos. Meas. Tech., 9, 3769-3791, https://doi.org/10.5194/amt-9-3769-2016' 
+L12 | 'Loridan T, CSB Grimmond, BD Offerle, DT Young, T Smith, L Järvi, F Lindberg 2012: Local-Scale Urban Meteorological Parameterization Scheme (LUMPS): longwave radiation parameterization & seasonality related developments J. of Applied Meteorology & Climatology. 50: 185-202 https://doi.org/10.1175/2012äMC2474.1>'
+M18 | 'Morrison W, S Kotthaus; S Grimmond, A Inagaki, T Yin, J-P Gastellu-Etchegorry, M Kanda, C Merchant A novel method to obtain three-dimensional urban surface temperature from ground-based thermography, Remote Sensing of Environment  215, 268-283 https://doi.org/10.1016/j.rse.2018.05.004'
+BG18 | 'Bjorkegren A, CSB Grimmond 2018: Net Carbon Dioxide emissions from central London) Urban Climate 23, 131-158  https://doi.org/10.1016/j.uclim.2016.10.002' 
+B15 | 'Bjorkegren A, CSB Grimmond, S Kotthaus, BD Malamud 2015: CO2 emission estimation in the urban environment: measurement of the CO2 storage term. Atmospheric Environment 122, 775-790,  https://doi.org/10.1016/j.atmosenv.2015.10.012' 
+KG12 | 'Kotthaus S & CSB Grimmond 2012: Identification of Micro-scale Anthropogenic CO2, Heat and Moisture Sources - Processing Eddy Covariance Fluxes for a Dense Urban Environment Atmospheric Environment 57, 301-316. https://doi.org/10.1016/j.atmosenv.2012.04.024'   
+KG14a | 'Kotthaus S & CSB Grimmond 2014: Energy exchange in a dense urban environment – Part I: temporal variability of long-term observations in central London Urban Climate 10, 261–280 https://doi.org/10.1016/j.uclim.2013.10.002'
+KG14b | 'Kotthaus S & CSB Grimmond 2014: Energy exchange in a dense urban environment – Part II: impact of spatial heterogeneity of the surface Urban Climate, 10, 281–307  https://doi.org/10.1016/j.uclim.2013.10.001'
+K14 | 'Kotthaus S, TEL Smith, MJ Wooster, CSB Grimmond 2014: Derivation of an urban materials spectral library through emittance and reflectance spectroscopy ISPRS Journal of Photogrammetry and Remote Sensing, 94, 194-212. https://doi.org/10.1016/j.isprsjprs.2014.05.005'
+W15 | 'Ward HC, S Kotthaus, CSB Grimmond, A Bjorkegren, M Wilkinson, WTJ Morrison, JG Evans, JIL Morison, M Iamarino 2015: Effects of urban density on carbon dioxide exchanges: observations of dense urban, suburban and woodland areas of southern England. Env Pollution 198, 186-200,  https://doi.org/10.1016/j.envpol.2014.12.031'
