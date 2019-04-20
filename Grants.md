@@ -1,6 +1,6 @@
 #grants EU format different
 UrbanFluxes=637519
-UK='https://gtr.ukri.org/projects?ref='
+UK=<https://gtr.ukri.org/projects?ref=>
 AirPro='NE/N00700X/1'
 COSMA='NE/S005889/1'
 ClearfLo='NE/H003231/1'
