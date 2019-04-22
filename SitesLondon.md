@@ -140,7 +140,7 @@ from DoY | 2014218
  ### IndoorT 
 
 | ID| Name| Latitude| Longitude| Start Date| End Date | 
- --| --|  --| --|  --| --|  --| --|  --| --|  --| --|  --| --|  --| --| 
+--| --|  --| --|  --| --|  
  | BBM|  Barbican Brandon Mews|  51.519043|  -0.09139|  2013-08-12|  2013-08-13 
  |  BDH|  Barbican Defoe House|  51.519935|  -0.095334|  2013-11-28 | 
  |  BH|  Barford House|  51.536287 | -0.10602 | 2013-07-31|  2013-08-08 |
