@@ -165,7 +165,7 @@ from DoY | 2014218
  | From |  2013-07-26 | ongoing | 
 
  | Instrument|Model| Brand | Serial.Number |Height (m) |Orientation (deg) | Start (DoY) |End (DoY) | 
- --| --| --| --| --| --| --| --| --| --|
+ --| --| --| --| --| --| --| --| 
  | Davis Station | Vantage Pro Plus| Davis| A00422A002 |26 |338| 2013200 |2014212  | 
  | Davis Station | Vantage Pro Plus| Davis |A00422A002_6410 |26| 338 | 2014213| 2018-10-31 |
 
