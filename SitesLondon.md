@@ -202,7 +202,7 @@ from DoY | 2014218
   YYYYYDDD | Year - Day of Year |  
 
   | Instrument|Model| Brand | Serial.Number |Height (m) |Orientation (deg) | Start (DoY) |End (DoY) | 
- --| --| --| --| --| --| --| --| --| --| 
+ --| --| --| --| --| --| --| --|
  | 3D Sonic Anemometer| CSAT3|Campbell Scientific | 1188-1| 48.1 |217|2010022| 2010063  | 
  | | CSAT3 |  Campbell Scientific | 1188-1| 48.1 |207 |2010063| 2010081  | 
  | | CSAT3 |  Campbell Scientific | 1188-1| 48.1 |89 |2010081| 2010088  | 
@@ -271,20 +271,21 @@ To| 2013-05-19 |
 YYYYYDDD |- Year - Day of Year | 
 
 | Instrument |Model|Brand  |SN | Ht(m)| Orientation (degrees)| Start (DoY)|End (DoY) | 
+--| --| --| --| --| --| --| --|
 | Data Logger |CR3000 |  Campbell Scientific | Hut  | 
-| IR Thermometer | Apogee_K Apogee | --1249 | 41 roof_flat_gravel 2010234 2011127  | 
-| IR Thermometer | Apogee_K Apogee | --1248 | 41 roof_west_metal -2010234 2011127  | 
-| IR Thermometer | Apogee_K Apogee | --1250 | 41 roof_south_slate 2010234 2011127  | 
-| IR Thermometer | Apogee_K Apogee | --1249 | 41 roof_flat_gravel 2011136 2013139  | 
-| IR Thermometer | Apogee_K Apogee | --1248 | 41 roof_west_metal -2011136 2013139  | 
-| IR Thermometer | Apogee_K Apogee | --1250 | 41 roof_south_slate 2011136 2013139  | 
-| IR Thermometer | Apogee_K Apogee | --1249 | 41 roof_flat_gravel 2013140 | 2013282  | 
-| IR Thermometer | Apogee_K Apogee | --1248 | 41 roof_west_metal -201314 0 | 2013282  | 
-| IR Thermometer | Apogee_K Apogee | --1250 | 41 roof_south_slate 2013140 |2013282  | 
-| IR Thermometer | Apogee_K Apogee | --1851 | 41 north | -| 2011136 | 2013139  | 
+| IR Thermometer | Apogee_K Apogee | --1249 | 41| roof_flat_gravel| 2010234| 2011127  | 
+| IR Thermometer | Apogee_K Apogee | --1248 | 41| roof_west_metal |2010234Z 2011127  | 
+| IR Thermometer | Apogee_K Apogee | --1250 | 41| roof_south_slate |2010234| 2011127  | 
+| IR Thermometer | Apogee_K Apogee | --1249 | 41| roof_flat_gravel |2011136| 2013139  | 
+| IR Thermometer | Apogee_K Apogee | --1248 | 41| roof_west_metal |2011136| 2013139  | 
+| IR Thermometer | Apogee_K Apogee | --1250 | 41| roof_south_slate |2011136| 2013139  | 
+| IR Thermometer | Apogee_K Apogee | --1249 | 41| roof_flat_gravel Z2013140 | 2013282  | 
+| IR Thermometer | Apogee_K Apogee | --1248 | 41| roof_west_metal |2013140 | 2013282  | 
+| IR Thermometer | Apogee_K Apogee | --1250 | 41| roof_south_slate |2013140 |2013282  | 
+| IR Thermometer | Apogee_K Apogee | --1851 | 41| north | 2011136 | 2013139  | 
 | Net Radiometer | CNR1 Kipp & Zonen | 000220 43 | 2007051 2008224  | 
-| Ceilometer |-CL31-A Vaisala |  | B20201 40.5| | 2006333 2009112  | 
-| Ceilometer |-CL31-B Vaisala  | --B20202 40.5| | 2007338 2008233 |
+| Ceilometer |-CL31-A Vaisala |  B20201 |40.5| | 2006333 2009112  | 
+| Ceilometer |-CL31-B Vaisala  | B20202| 40.5| | 2007338 2008233 |
  
  
  KSL | King’s College London K  Strand Campus S Strand Building Lab L -  Inside Lab work
@@ -299,14 +300,13 @@ YYYYYDDD |- Year - Day of Year |
  To| 2015-09-18 | 
 
  | Instrument|  | Model |Brand|  |Serial.No | Ht(m)--Orientation (deg) | Start (DoY) | End (DoY) | 
- | 3D Sonic Anemometer | | 1210 R3 --Gill  | .-307| 34 | | 271| | 2013063 2015260  | 
- | 3D Sonic Anemometer | | CSAT3 | |  Campbell Scientific |.. 0192-2 | 34 | | 246| | 2015261 2016049  | 
- | Gas Analyser | -| Li7500A- | Li-Cor |  75H-1973 | 34 | | 243| | 2015261 2016049  | 
- | Gas Analyser Processor- Li7550 | | Li-Cor | .AIU-0226 | 35 |  0| -| 2015261 2016049|
+ --| --| --| --| --| --| --| --|
+ | 3D Sonic Anemometer | 1210 R3 |Gill  | .-307| 34 | 271 | 2013063| 2015260  | 
+ | 3D Sonic Anemometer | CSAT3 | Campbell Scientific |0192-2 | 34 |246| 2015261| 2016049  | 
+ | Gas Analyser | Li7500A | Li-Cor |  75H-1973 | 34 | 243| 2015261| 2016049  | 
+ | Gas Analyser Processor|Li7550 | Li-Cor | AIU-0226 | 35 |  0|  2015261| 2016049|
  
    
- 
- 
  
  KSS | KSS - Kings College London (Strand Campus) Strand Building |  
  --|--|
