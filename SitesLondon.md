@@ -177,7 +177,7 @@ from DoY | 2014218
  To| 2018-10-31 | 
 
  | Instrument|Model| Brand | Serial.Number |Height (m) |Orientation (deg) | Start (DoY) |End (DoY) | 
- --| --| --| --| --| --| --| --| --| --|
+ --| --| --| --| --| --| --| --| 
  | Davis Station| Vantage Pro Plus | Davis |A00422A003 | 91 | 342 | 2013200  |2014212 | 
  | Scintillometer| LASMkII |Kipp & Zonen| 120029| ? | ?| 2014099 | 2100001  | 
  | BLS | BLS900 |  Scintec|  T-E-0470| ? |?|  2014180 |2100001  | 
